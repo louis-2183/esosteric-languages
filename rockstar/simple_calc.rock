@@ -1,5 +1,5 @@
 #!/bin/rockstar
-(Simple 2 digit calculation with input of "{digit} {op} {digit}")
+(Simple 2 int calculation with input of "{int} {op} {int}")
 (Supports +, -, /, * for operations)
 
 Listen to your heart
@@ -21,7 +21,7 @@ Burn them into the bonfire
 Roses are very special
 Burn them into the abyss
 
-Let time be like commitment
+Time's like a commitment
 Let the light be the docks at Tommy
 Let sunlight be the docks at the sun
 Burn it with time
