@@ -1,5 +1,5 @@
 #!/bin/rockstar
-(Simple 2 int calculation with input of "{int} {op} {int}")
+(Simple 2 int calculator with input of "{int} {op} {int}")
 (Supports +, -, /, * for operations)
 
 Listen to your heart
