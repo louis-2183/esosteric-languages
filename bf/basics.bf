@@ -1,17 +1,17 @@
-Addition of 2 cells
+// Addition of 2 cells
 +++++++++>++++<[->+<]
 
 +++++++++ 0000 (9)
 >++++<    0001 (4)
 [->+<]    Add 0000 and store in 0001 (13)
 
-Storage of input chars into separate cells
+// Storage of input chars into separate cells
 ,[>,]
 
 ,   Take first input 
 [>,] While there are still inputs, move to next cell and input 
 
-Wipe cells until next null cell LTR
+// Wipe cells until next null cell LTR
 ++++++>+++>+++<<
 
 ++++++> 0000 (6)
